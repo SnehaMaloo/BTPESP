@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572902788259",
+    "project_id": "btp-flutter-edc2c",
+    "storage_bucket": "btp-flutter-edc2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572902788259:android:c4128658b5f3eae4394316",
+        "android_client_info": {
+          "package_name": "com.example.btp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxd7qwAuDOVsjYgYnlRpUNXwtZv-v9SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
